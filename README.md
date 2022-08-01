@@ -1,2 +1,1 @@
-# online-store
-online-store for rs.school
+# This template is deprecated
